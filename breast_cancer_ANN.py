@@ -70,7 +70,7 @@ nn_model1.predicted_probs[0]
 
 
 
-
+'''
 
 #Importing keras libraries and packages
 #import keras
@@ -132,5 +132,5 @@ plt.ylabel('loss')
 plt.xlabel('epoch')
 plt.legend(['train', 'test'], loc='upper left')
 plt.show()
-
+'''
 
